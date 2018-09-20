@@ -76,4 +76,4 @@ function out = DIV_RATIO(val, F_SD)
 out = ((val) * 1e3 / 8 / (F_SD) - 16) * 16777216;
 end
 
-
+%add test
